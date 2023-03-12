@@ -1,0 +1,14 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '3 out of 5' test cases in the current suite                                        
+                                           Test Method: 'TestSignUp.testInsertingAndRemoveItemToCart'                                           
+------------------------------------------------------------------------------------------------------------------------------------------------
+[ReportManager] Click "By.xpath: (//*[@id='tbodyid']/div)[1]". @12-03-2023 18:00:07.0264 PM
+[ReportManager] Click "Add to cart". @12-03-2023 18:00:08.0259 PM
+[ReportManager] Alert is present @12-03-2023 18:00:09.0784 PM
+[ReportManager] Alert Text is: [Product added] @12-03-2023 18:00:09.0787 PM
+[ReportManager] Get alert text. @12-03-2023 18:00:09.0788 PM
+[ReportManager] Click "By.linkText: Cart". @12-03-2023 18:00:11.0236 PM
+[ReportManager] Click "Delete". @12-03-2023 18:00:31.0418 PM
+[ReportManager] Is element displayed "Delete". @12-03-2023 18:00:31.0626 PM
+[ReportManager] Successfully created attachment 'SHAFT Engine Logs - Current Method log: setup' @12-03-2023 18:00:31.0629 PM

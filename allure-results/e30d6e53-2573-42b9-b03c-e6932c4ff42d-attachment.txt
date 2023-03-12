@@ -1,0 +1,11 @@
+[ReportManager] Setting "targetOperatingSystem" property with "WINDOWS". @12-03-2023 18:00:32.0481 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/downloadedFiles/"". @12-03-2023 18:00:32.0491 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/target/downloadedFiles/"". @12-03-2023 18:00:32.0491 PM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/downloadedFiles/"". @12-03-2023 18:00:32.0492 PM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "src/test/resources/testDataFiles/target/downloadedFiles/"". @12-03-2023 18:00:32.0493 PM
+[ReportManager] Attempting to run locally on: "WINDOWS | Chrome". @12-03-2023 18:00:32.0494 PM
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @12-03-2023 18:00:32.0494 PM
+[ReportManager] Successfully Opened: "WINDOWS | Chrome". @12-03-2023 18:00:36.0137 PM
+[ReportManager] Target URL: "https://www.demoblaze.com/" @12-03-2023 18:00:36.0308 PM
+[ReportManager] Initial URL: "data:," @12-03-2023 18:00:36.0391 PM
+[ReportManager] Navigate to url "https://www.demoblaze.com/". @12-03-2023 18:00:40.0035 PM

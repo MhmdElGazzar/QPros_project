@@ -1,0 +1,18 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 5' test cases in the current suite                                        
+                                                Test Method: 'TestSignUp.testCategoriesHasItems'                                                
+------------------------------------------------------------------------------------------------------------------------------------------------
+[ReportManager] Click "Phones". @12-03-2023 17:59:47.0728 PM
+[ReportManager] Verification "ValidateComparativeRelation" PASSED. Expected "0" and Actual "9". Comparison Type "GREATER_THAN". Validation Type "POSITIVE". @12-03-2023 17:59:49.0740 PM
+[ReportManager] Verification Passed: "9" is greater than "0". @12-03-2023 17:59:49.0740 PM
+[ReportManager] Successfully created attachment 'Screenshot - 1678636788837_testCategoriesHasItems_ValidateComparativeRelation_passed' @12-03-2023 17:59:49.0776 PM
+[ReportManager] Click "Laptops". @12-03-2023 17:59:50.0383 PM
+[ReportManager] Verification "ValidateComparativeRelation" PASSED. Expected "0" and Actual "7". Comparison Type "GREATER_THAN". Validation Type "POSITIVE". @12-03-2023 17:59:52.0396 PM
+[ReportManager] Verification Passed: "7" is greater than "0". @12-03-2023 17:59:52.0396 PM
+[ReportManager] Successfully created attachment 'Screenshot - 1678636791882_testCategoriesHasItems_ValidateComparativeRelation_passed' @12-03-2023 17:59:52.0408 PM
+[ReportManager] Click "Monitors". @12-03-2023 17:59:52.0988 PM
+[ReportManager] Verification "ValidateComparativeRelation" PASSED. Expected "0" and Actual "6". Comparison Type "GREATER_THAN". Validation Type "POSITIVE". @12-03-2023 17:59:54.0294 PM
+[ReportManager] Verification Passed: "6" is greater than "0". @12-03-2023 17:59:54.0294 PM
+[ReportManager] Successfully created attachment 'Screenshot - 1678636793959_testCategoriesHasItems_ValidateComparativeRelation_passed' @12-03-2023 17:59:54.0302 PM
+[ReportManager] Successfully created attachment 'SHAFT Engine Logs - Current Method log: setup' @12-03-2023 17:59:54.0304 PM

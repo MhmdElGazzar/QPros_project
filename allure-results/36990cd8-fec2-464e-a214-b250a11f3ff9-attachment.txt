@@ -1,0 +1,13 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 5' test cases in the current suite                                        
+                                                Test Method: 'TestSignUp.testASuccessfulSignUp'                                                
+------------------------------------------------------------------------------------------------------------------------------------------------
+[ReportManager] Click "Sign up". @12-03-2023 17:59:38.0420 PM
+[ReportManager] Type "Odell Lebsack DDS" into "By.id: sign-username". @12-03-2023 17:59:38.0951 PM
+[ReportManager] Type "12121212" into "Password:". @12-03-2023 17:59:39.0275 PM
+[ReportManager] Click "Sign up". @12-03-2023 17:59:39.0855 PM
+[ReportManager] Alert is present @12-03-2023 17:59:40.0905 PM
+[ReportManager] Alert Text is: [Sign up successful.] @12-03-2023 17:59:40.0910 PM
+[ReportManager] Get alert text. @12-03-2023 17:59:40.0910 PM
+[ReportManager] Successfully created attachment 'SHAFT Engine Logs - Current Method log: setup' @12-03-2023 17:59:40.0918 PM

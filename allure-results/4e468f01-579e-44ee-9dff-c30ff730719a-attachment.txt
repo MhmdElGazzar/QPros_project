@@ -1,0 +1,17 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '4 out of 5' test cases in the current suite                                        
+                                                 Test Method: 'TestSignUp.testSuccessfulLogin'                                                 
+------------------------------------------------------------------------------------------------------------------------------------------------
+[ReportManager] Click "Log in". @12-03-2023 18:00:41.0099 PM
+[ReportManager] Type "dragon2023" into "By.id: loginusername". @12-03-2023 18:00:41.0676 PM
+[ReportManager] Type "12121212" into "By.id: loginpassword". @12-03-2023 18:00:42.0056 PM
+[ReportManager] Click "Log in". @12-03-2023 18:00:42.0841 PM
+[ReportManager] Assertion "ValidateElementExists" PASSED. Expected "Element Should Exist, locator 'By.id: logout2'" and Actual "Element Exists". Comparison Type "EQUALS". Validation Type "POSITIVE". @12-03-2023 18:00:48.0738 PM
+[ReportManager] Assertion Passed: The Element located by "By.id: logout2" exists. @12-03-2023 18:00:48.0738 PM
+[ReportManager] Successfully created attachment 'Screenshot - 1678636848246_testSuccessfulLogin_ValidateElementExists_passed' @12-03-2023 18:00:48.0754 PM
+[ReportManager] Get text "Welcome dragon2023" from "Welcome dragon2023". @12-03-2023 18:00:48.0921 PM
+[ReportManager] Assertion "ValidateEquals" PASSED. Expected "Welcome dragon2023" and Actual "Welcome dragon2023". Comparison Type "EQUALS". Validation Type "POSITIVE". @12-03-2023 18:00:49.0967 PM
+[ReportManager] Assertion Passed: "Welcome dragon2023" is equal to "Welcome dragon2023". @12-03-2023 18:00:49.0968 PM
+[ReportManager] Successfully created attachment 'Screenshot - 1678636849352_testSuccessfulLogin_ValidateEquals_passed' @12-03-2023 18:00:49.0979 PM
+[ReportManager] Successfully created attachment 'SHAFT Engine Logs - Current Method log: setup' @12-03-2023 18:00:49.0982 PM

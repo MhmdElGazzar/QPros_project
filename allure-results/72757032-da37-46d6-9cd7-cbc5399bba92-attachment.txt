@@ -1,0 +1,21 @@
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '5 out of 5' test cases in the current suite                                        
+                                                     Test Method: 'TestSignUp.testcheckout'                                                     
+------------------------------------------------------------------------------------------------------------------------------------------------
+[ReportManager] Click "By.xpath: (//*[@id='tbodyid']/div)[1]". @12-03-2023 18:00:59.0715 PM
+[ReportManager] Click "Add to cart". @12-03-2023 18:01:02.0015 PM
+[ReportManager] Click "Cart". @12-03-2023 18:01:02.0820 PM
+[ReportManager] Click "By.xpath: //button[contains(text(),'Place Order')]". @12-03-2023 18:01:03.0834 PM
+[ReportManager] Type "mhmd" into "By.id: name". @12-03-2023 18:01:04.0365 PM
+[ReportManager] Type "egy" into "Country:". @12-03-2023 18:01:04.0742 PM
+[ReportManager] Type "cairo" into "City:". @12-03-2023 18:01:05.0089 PM
+[ReportManager] Type "12345678910123" into "Credit card:". @12-03-2023 18:01:05.0491 PM
+[ReportManager] Type "August" into "Month:". @12-03-2023 18:01:05.0848 PM
+[ReportManager] Type "2023" into "Year:". @12-03-2023 18:01:06.0150 PM
+[ReportManager] Click "Purchase". @12-03-2023 18:01:06.0659 PM
+[ReportManager] Get text "Thank you for your purchase!" from "Thank you for your purchase!". @12-03-2023 18:01:06.0910 PM
+[ReportManager] Assertion "ValidateEquals" PASSED. Expected "Thank you for your purchase!" and Actual "Thank you for your purchase!". Comparison Type "EQUALS". Validation Type "POSITIVE". @12-03-2023 18:01:07.0974 PM
+[ReportManager] Assertion Passed: "Thank you for your purchase!" is equal to "Thank you for your purchase!". @12-03-2023 18:01:07.0974 PM
+[ReportManager] Successfully created attachment 'Screenshot - 1678636867763_testcheckout_ValidateEquals_passed' @12-03-2023 18:01:07.0978 PM
+[ReportManager] Successfully created attachment 'SHAFT Engine Logs - Current Method log: setup' @12-03-2023 18:01:07.0980 PM

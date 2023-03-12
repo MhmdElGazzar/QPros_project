@@ -1,0 +1,3 @@
+[ReportManager] Successfully created attachment 'Final Page Snapshot - teardown' @12-03-2023 18:00:31.0705 PM
+[ReportManager] Successfully Closed Driver. @12-03-2023 18:00:32.0466 PM
+[ReportManager] Driver is already closed. @12-03-2023 18:00:32.0467 PM
